@@ -2,18 +2,23 @@
 
 이 책에 관한 설명 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고 어쩌고 저쩌고
 
-[4.1. Disclosure - You & Me (Flume Remix)](#4.1.-Disclosure-You-&-Me-(Flume-Remix))
-[4.2. Martin Garrix - Animals](#4.2.-Martin-Garrix-Animals)
-[4.3. Calvin Harris - Summer](#4.3.-Calvin-Harris-Summer)
+[4.1. Disclosure - You & Me (Flume Remix)](#41-disclosure---you--me-flume-remix)
+
+[4.2. Martin Garrix - Animals](#42-martin-garrix---animals)
+
+[4.3. Calvin Harris - Summer](#43-calvin-harris---summer)
+
 
 ## 4.1. Disclosure - You & Me (Flume Remix)
 
 이 사운드는 퓨처 베이스에서 빠짐없이 사용하는 코드 신스 스타일로 **Disclosure - You & Me (Flume Remix)** 에 등장합니다. 일반적으로는 LFO가 필터 프리퀀시를 제어 하면서 얻을 수 있는 효과입니다.
 
 > 원곡 미리 듣기 : https://youtu.be/OUkkaqSNduU?t=62
+
 [![Video Label](http://img.youtube.com/vi/OUkkaqSNduU/0.jpg)](https://youtu.be/OUkkaqSNduU?t=62)
 
 > 예제 미리 듣기 : https://youtu.be/OUkkaqSNduU?t=62
+
 [![Video Label](http://img.youtube.com/vi/OUkkaqSNduU/0.jpg)](https://youtu.be/OUkkaqSNduU?t=62)
 
 
@@ -25,9 +30,11 @@
 니다.
 
 > 원곡 미리 듣기 : https://youtu.be/DuFUtL8zUAk?t=111
+
 [![Video Label](http://img.youtube.com/vi/DuFUtL8zUAk/0.jpg)](https://youtu.be/DuFUtL8zUAk?t=111)
 
 > 예제 미리 듣기 : https://youtu.be/DuFUtL8zUAk?t=111
+
 [![Video Label](http://img.youtube.com/vi/DuFUtL8zUAk/0.jpg)](https://youtu.be/DuFUtL8zUAk?t=111)
 
 
@@ -39,9 +46,11 @@
 드는 것이 중요합니다.
 
 > 원곡 미리 듣기 : https://youtu.be/ebXbLfLACGM?t=59
+
 [![Video Label](http://img.youtube.com/vi/ebXbLfLACGM/0.jpg)](https://youtu.be/ebXbLfLACGM?t=59)
 
 > 예제 미리 듣기 : https://youtu.be/ebXbLfLACGM?t=59
+
 [![Video Label](http://img.youtube.com/vi/ebXbLfLACGM/0.jpg)](https://youtu.be/ebXbLfLACGM?t=59)
 
 
